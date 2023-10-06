@@ -11,7 +11,7 @@ this is a easy tool for (AES 256) Encrypt and Decrypt in android.
             url uri("https://maven.pkg.github.com/SajjadAkbariDev/AndroidAES256")
             credentials {
                 username = "SajjadAkbariDev"
-                password = "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"
+                password = "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"
             }
         }
 

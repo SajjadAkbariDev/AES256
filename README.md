@@ -7,13 +7,13 @@ this is a easy tool for (AES 256) Encrypt and Decrypt in android.
 ## Documentation
  only need add this maven repository:
 
-- ***delete __SPACE__ in password line in below code: ***
+- ***delete #SPACE# in password line in below code: ***
 
         maven {
             url uri("https://maven.pkg.github.com/SajjadAkbariDev/AndroidAES256")
             credentials {
                 username = "SajjadAkbariDev"
-                password = "ghp_1RmhPU1rOaz8U1j_SPACE_uhPiAxtlXeaYbkj3MeiBm"
+                password = "ghp_1RmhPU1rOaz8U1j#SPACE#uhPiAxtlXeaYbkj3MeiBm"
             }
         }
 

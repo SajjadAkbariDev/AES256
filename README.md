@@ -47,4 +47,3 @@ import sajjad.akbari.AES256
 
 For support, email sajjad.akbari.dev@outlook.com
 
-Telegram: https://t.me/UnlimitL
